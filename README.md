@@ -10,6 +10,7 @@ After creating this object, we can add new Branch type objects into branches
 variable. Doing so we increase object depth by one. Into created objects we can
 add again new branches etc. In the figure below we have similar structure. This
 structure depth is 5
+
 ![image](https://github.com/itsAdee/CodingTasks/assets/104891437/40d53334-8140-444f-9d33-65c379d02208)
 
 Please write a program, where you would create similar structure. Pass this structure into your own created method and calculate the depth of provided structure. Main requirement to complete this task: use recursion.
